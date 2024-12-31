@@ -15,7 +15,7 @@ Welcome to my portfolio of machine learning assignments from **COMPSCI 4AL3** at
 ---
 
 ## Assignment 1: Regression
-**Weight**: 25 points  
+  
 **Objective**: Implement linear and polynomial regression models to analyze relationships between variables, focusing on both implementation and visualization.
 
 ### Part 1:
@@ -35,7 +35,7 @@ Welcome to my portfolio of machine learning assignments from **COMPSCI 4AL3** at
 ---
 
 ## Assignment 2: Supervised Machine Learning
-**Weight**: 25 points  
+ 
 **Objective**: Implement Support Vector Machine (SVM) classifier for solar flare prediction using multiple feature sets.
 
 - **Dataset**: NASA Solar Dynamics Observatory (SDO) satellite data (2010-2015 and 2020-2024)  
@@ -50,7 +50,7 @@ Welcome to my portfolio of machine learning assignments from **COMPSCI 4AL3** at
 ---
 
 ## Assignment 3: SVM
-**Weight**: 25 points  
+
 **Objective**: Implement advanced SVM techniques including regularization, mini-batch processing, and active learning.
 
 - **Dataset**: Breast Cancer Dataset  
@@ -64,7 +64,7 @@ Welcome to my portfolio of machine learning assignments from **COMPSCI 4AL3** at
 ---
 
 ## Assignment 4: Algorithmic Bias & ML Architectures
-**Weight**: 25 points  
+
 **Objective**: Implement CNN for image classification and analyze algorithmic bias in criminal justice predictions.
 
 ### Part 1:
